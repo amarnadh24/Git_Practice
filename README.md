@@ -4,3 +4,9 @@ Hello World
 . git add.
 . git commit 
 . git push
+. git pull 
+. git fetch
+. git merge
+. git rebase
+. git amend
+. git abort
