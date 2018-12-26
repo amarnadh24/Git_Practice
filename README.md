@@ -9,4 +9,4 @@ Hello World
 . git merge
 . git rebase
 . git amend
-. git abort
+. git revert
